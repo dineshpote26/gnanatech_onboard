@@ -1,4 +1,4 @@
-# # <img src="WhatsApp Image 2025-12-31 at 11.34.39.jpeg" width="80"> Gnanatech WhatsApp Onboarding
+# <img src="WhatsApp Image 2025-12-31 at 11.34.39.jpeg" width="80"> Gnanatech WhatsApp Onboarding
 
 Welcome! To integrate your business with the **Gnanatech WhatsApp Platform**, please follow the steps below to generate your API credentials.
 
